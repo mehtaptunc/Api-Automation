@@ -1,6 +1,6 @@
 
 
-Petstore Web Sitesi için Otomatik API Testleri
+# Petstore Web Sitesi için Otomatik API Testleri
 
 Bu proje, JavaScript dilini kullanarak Petstore web sitesinin API'lerini otomatikleştirmek için tasarlanmıştır. Bu sayede, API'lerin işlevselliği ve güvenilirliği hızlı ve kolay bir şekilde test edilebilir.
 
